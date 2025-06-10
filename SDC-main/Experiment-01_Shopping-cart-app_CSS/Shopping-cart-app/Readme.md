@@ -1,51 +1,99 @@
-Program 1 - Responsive Shopping Cart Web Application 
+# FBS e-Book Cart Page
+
+Welcome to the FBS e-Book's website! This repository contains the HTML code for the cart page of an online bookstore. The cart page displays the selected books, their prices, quantities, and the total amount due.
+
+## Features
+
+- Displays a list of books added to the cart.
+- Shows the price and quantity for each book.
+- Calculates and displays the total amount.
+- Provides a button to proceed to payment via credit card.
+
+## Code Overview
+
+The HTML code consists of the following main components:
+
+- **Title**: The title of the webpage is set to "Welcome to FBS e-Book's website".
+- **Table Structure**: A table is used to display the cart items, including:
+  - Book Name
+  - Price
+  - Quantity
+  - Amount
+- **Total Calculation**: The total amount is calculated based on the items in the cart.
+- **Payment Button**: A button that redirects the user to a payment page when clicked.
+
+## Usage
+
+1. **Open the HTML file**: Save the provided HTML code in a file named `cart.html`.
+2. **View in Browser**: Open the `cart.html` file in any web browser to view the cart page.
+3. **Proceed to Payment**: Click the "Pay By Credit Card" button to navigate to the payment page (ensure you have a `paybycreditcard.html` file in the same directory).
+
+## Customization
+
+- You can modify the book names, prices, and quantities in the table to reflect the actual items in your store.
+- Update the link in the payment button to point to your actual payment processing page.
+
+## License
+
+This project is open-source and available for anyone to use and modify. Please feel free to contribute or suggest improvements.
+.
+# FBS e-Book Computer Science & Engineering Catalogue
+
+This repository contains the HTML code for the Computer Science & Engineering book catalogue page of the FBS e-Book website.
+
+## Features
+
+- Displays a list of books with images, details, and prices.
+- Each book has an "Add to cart" button for user interaction.
+
+## Code Overview
+
+- **Title**: The page title is "Welcome to FBS e-Book's website".
+- **Table Structure**: A table presents:
+  - Book images
+  - Titles, authors, and publishers
+  - Prices
+  - Options to add books to the cart
+
+## Usage
+
+1. Save the HTML code in a file named `catalogue.html`.
+2. Open the file in a web browser to view the catalogue.
+3. Ensure images are in the `images` directory for proper display.
 
 
 
-AIM
-To create a responsive shopping cart web application using CSS3, Flexbox, and Grid for layout design.
+# FBS e-Book Electronics & Communication Engineering Catalogue
 
-DESCRIPTION
-This application allows users to register, log in, browse a product catalog, add items to the shopping cart, and view the cart contents. It utilizes CSS3 features such as Flexbox and Grid for responsive layouts and ensures that the application is mobile-friendly and adjusts seamlessly to different screen sizes.
+This repository contains the HTML code for the Electronics & Communication Engineering book catalogue page of the FBS e-Book website.
 
-Project Structure
+## Features
 
-ShoppingCartApp/
-│── public/
-│ │── css/
-│ │ ├── utils.css # Styles for the navigation bar
-│ │ ├── index.css # Styles for catalog items
-│ │ ├── cart.css # Styles for the shopping cart page
-│ │ ├── login.css # Styles for the login page
-│ │ ├── register.css # Styles for the registration page
-│ │── images/ # Folder for storing images
-│ │── js/
-│ │ └── script.js # Main JavaScript file
-│ │── html/
-│ │ ├── index.html # Main HTML file
-│ │ ├── cart.html # Shopping cart page
-│ │ ├── login.html # Login page
-│ │ ├── register.html # Registration page
-│── server.js # Node.js Express server
-│── package.json # Project dependencies and scripts
-│── README.md # Project documentation
+- Displays a list of electronics and communication books with images, details, and prices.
+- Each book includes an "Add to cart" button for user interaction.
 
-Installation & Setup
+## Code Overview
 
-Prerequisites
-•Install Node.js and npm
+- **Title**: The page title is "Welcome to FBS e-Book's website".
+- **Table Structure**: A table presents:
+  - Book images
+  - Titles, authors, and publishers
+  - Prices
+  - Options to add books to the cart
 
-Steps to Run the Project
-1.Clone the repository:
-2.git clone https://github.com/your-repo/shopping-cart.git
-3.cd shopping-cart
-4.Install dependencies:
-5.npm install
-6.Run the server:
-7.node server.js
-8.Open the browser and visit:
-9.http://localhost:3000
+## Usage
 
-License
-This project is licensed under the MIT License.
-Developed by yashwanth kumar
+1. Save the HTML code in a file named `ece_catalogue.html`.
+2. Open the file in a web browser to view the catalogue.
+3. Ensure images are in the `images` directory for proper display.
+
+## Customization
+
+- Update book details, prices, and images as needed.
+
+## License
+
+This project is open-source. Feel free to use and modify it.
+
+---
+
