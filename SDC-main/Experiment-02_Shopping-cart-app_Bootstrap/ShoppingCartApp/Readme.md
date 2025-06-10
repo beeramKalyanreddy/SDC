@@ -1,39 +1,38 @@
-Program 2: Make the above web application responsive web application using Bootstrap framework
+# ACE E-Books Website
 
+This repository contains the HTML code for the ACE E-Books website, featuring various catalogues and functionalities for an online bookstore.
 
-Overview
-ShoppingCartApp is a web-based payment system that allows users to pay by credit card. This version of the application has been made responsive using the Bootstrap framework, ensuring a seamless experience across various devices.
-Features
-•Responsive design using Bootstrap 5
-•Credit card payment form with fields for cardholder name, card number, expiration date, and CVV
-•Modern and clean UI
-•Mobile-friendly layout
-File Structure
-ShoppingCartApp/
-│── public/
-│ ├── css/
-│ │ ├── paybycreditcard.css
-│ ├── html/
-│ │ ├── paybycreditcard.html
+## Features
 
-Technologies Used
--HTML5
--CSS3
--Bootstrap 5
-Setup Instructions
-1.Clone the repository:
-2.git clone https://github.com/your-repo/ShoppingCartApp.git
-3.Navigate to the project folder:
-4.cd ShoppingCartApp/public/html
-5.Open paybycreditcard.html in your browser.
+- **Homepage**: Welcomes users and provides navigation to different sections.
+- **Catalogues**:
+  - **Computer Science & Engineering**: Lists books with details and "Add to Cart" options.
+  - **Electronics & Communication Engineering**: Similar structure to the CSE catalogue.
+  - **Information Technologies**: Displays various IT-related books.
+- **Shopping Cart**: Allows users to view selected books, adjust quantities, and proceed to payment.
+- **User  Authentication**: Login and registration forms for user accounts.
 
-How to Use
+## Code Overview
 
--Enter the cardholder's name, card number, expiration date, and CVV.
--Click the Pay Now button to proceed with the payment.
-Bootstrap Integration
-The Bootstrap framework is included via CDN in the <head> section of paybycreditcard.html:
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+- **HTML Structure**: Each page includes a header, navigation bar, sidebar for categories, and main content area.
+- **Styling**: CSS is used for layout and design, ensuring a user-friendly interface.
+- **Responsive Design**: The layout adapts to different screen sizes for better accessibility.
 
-License
-This project is open-source and available under the MIT License.
+## Usage
+
+1. Clone the repository or download the HTML files.
+2. Open the HTML files in a web browser to view the website.
+3. Ensure images and resources are correctly linked for proper display.
+
+## Customization
+
+- Update book details, prices, and images in the catalogue pages as needed.
+- Modify styles in the CSS sections to change the appearance.
+
+## License
+
+This project is open-source. Feel free to use and modify it.
+
+---
+
+Thank you for exploring the ACE E-Books website!
