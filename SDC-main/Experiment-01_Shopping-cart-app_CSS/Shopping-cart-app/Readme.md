@@ -1,4 +1,4 @@
-# FBS e-Book Cart Page
+![image](https://github.com/user-attachments/assets/ce7dfe83-82d5-469f-a978-673f19224d58)# FBS e-Book Cart Page
 
 Welcome to the FBS e-Book's website! This repository contains the HTML code for the cart page of an online bookstore. The cart page displays the selected books, their prices, quantities, and the total amount due.
 
@@ -95,5 +95,5 @@ This repository contains the HTML code for the Electronics & Communication Engin
 
 This project is open-source. Feel free to use and modify it.
 
----
+
 
