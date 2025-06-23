@@ -36,4 +36,5 @@ This project is open-source. Feel free to use and modify it.
 ---
 
 Thank you for exploring the ACE E-Books website!![image](https://github.com/user-attachments/assets/8b2c8e23-441e-41af-88e6-a2156fca9e76)
+![image](https://github.com/user-attachments/assets/75548614-139e-4d08-87c5-e569d2b93972)
 
